@@ -1,0 +1,6 @@
+id,name,summary
+miscellaneous,Miscellaneous,"The unclassifiable."
+utilities,Utilities,"Useful tools to work with SQLite."
+python,Python,"Python programming language."
+application,Applications,"Solutions using SQLite as a building block."
+go,Go,"Go programming language."

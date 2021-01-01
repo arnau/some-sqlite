@@ -1,0 +1,202 @@
+{
+  "profile": "tabular-data-package",
+  "id": "fe75547f-9de6-4ba8-92a1-4177b30afa5f",
+  "name": "some-sqlite",
+  "title": "Some SQLite",
+  "description": "A collection of some SQLite resources.",
+  "created": "2021-01-01T15:36:14.363647Z",
+  "resources": [
+    {
+      "profile": "tabular-data-resource",
+      "name": "thing",
+      "title": "Thing",
+      "description": "The set of things for the collection.",
+      "path": "data/thing.csv",
+      "encoding": "UTF-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "url",
+            "description": "The URL of the thing.",
+            "type": "string",
+            "format": "uri",
+            "constraints": [
+              {
+                "required": true,
+                "unique": true
+              }
+            ]
+          },
+          {
+            "name": "name",
+            "description": "The name of the thing.",
+            "type": "string",
+            "constraints": [
+              {
+                "required": true,
+                "unique": true
+              }
+            ]
+          },
+          {
+            "name": "summary",
+            "description": "The description of the thing.",
+            "type": "string",
+            "constraints": [
+              {
+                "required": false,
+                "unique": false
+              }
+            ]
+          },
+          {
+            "name": "category_id",
+            "description": "The category of the thing.",
+            "type": "string",
+            "constraints": [
+              {
+                "required": true,
+                "unique": false
+              }
+            ]
+          }
+        ],
+        "primaryKey": [
+          "url"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "category_id"
+            ],
+            "reference": {
+              "resource": "tag",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "profile": "tabular-data-resource",
+      "name": "tag",
+      "title": "Tag",
+      "description": "The set of tags to classify the collection of things.",
+      "path": "data/tag.csv",
+      "encoding": "UTF-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "description": "The tag identifier.",
+            "type": "string",
+            "constraints": [
+              {
+                "required": true,
+                "unique": true
+              }
+            ]
+          },
+          {
+            "name": "name",
+            "description": "The tag human readable name.",
+            "type": "string",
+            "constraints": [
+              {
+                "required": true,
+                "unique": true
+              }
+            ]
+          },
+          {
+            "name": "summary",
+            "description": "The tag description.",
+            "type": "string",
+            "constraints": [
+              {
+                "required": false,
+                "unique": false
+              }
+            ]
+          }
+        ],
+        "primaryKey": [
+          "id"
+        ],
+        "foreignKeys": []
+      }
+    },
+    {
+      "profile": "tabular-data-resource",
+      "name": "thing_tag",
+      "title": "Thing tags",
+      "description": "The set of tags to further classify the collection of things.",
+      "path": "data/thing_tag.csv",
+      "encoding": "UTF-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "thing_id",
+            "description": "The reference to a thing.",
+            "type": "string",
+            "format": "uri",
+            "constraints": [
+              {
+                "required": true,
+                "unique": false
+              }
+            ]
+          },
+          {
+            "name": "tag_id",
+            "description": "The reference to a tag.",
+            "type": "string",
+            "constraints": [
+              {
+                "required": true,
+                "unique": false
+              }
+            ]
+          }
+        ],
+        "primaryKey": [
+          "thing_id",
+          "tag_id"
+        ],
+        "foreignKeys": [
+          {
+            "fields": [
+              "thing_id"
+            ],
+            "reference": {
+              "resource": "thing",
+              "fields": [
+                "url"
+              ]
+            }
+          },
+          {
+            "fields": [
+              "tag_id"
+            ],
+            "reference": {
+              "resource": "tag",
+              "fields": [
+                "id"
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "title": "Creative Commons Zero v1.0 Universal"
+    }
+  ]
+}
