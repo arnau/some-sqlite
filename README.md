@@ -3,13 +3,13 @@
 A collection of some SQLite resources.
 
 
-## Applications
+## Extensions
 
-Solutions using SQLite as a building block.
+Extensions to enhance SQLite.
 
 | name | summary | tags |
 | - | - | - |
-| [simple-graph](https://github.com/dpapathanasiou/simple-graph) | A graph database in SQLite inspired by 'SQLite as a document database'. | python |
+| [sqlite-parquet-vtable](https://github.com/cldellow/sqlite-parquet-vtable) | A SQLite virtual table extension to expose Parquet files as SQL tables. | utilities |
 
 ## Utilities
 
@@ -21,6 +21,14 @@ Useful tools to work with SQLite.
 | [datasette](https://github.com/simonw/datasette) | An open source multi-tool for exploring and publishing data. | python |
 | [rqlite](https://github.com/rqlite/rqlite) | A distributed relational database. | go |
 | [sqleton](https://github.com/inukshuk/sqleton) | A tool to visualise SQLite database schemas. | javascript |
+
+## Applications
+
+Solutions using SQLite as a building block.
+
+| name | summary | tags |
+| - | - | - |
+| [simple-graph](https://github.com/dpapathanasiou/simple-graph) | A graph database in SQLite inspired by 'SQLite as a document database'. | python |
 
 ## Licence
 
