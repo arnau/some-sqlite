@@ -4,3 +4,4 @@ https://github.com/simonw/datasette,python
 https://github.com/rqlite/rqlite,go
 https://github.com/dpapathanasiou/simple-graph,python
 https://github.com/inukshuk/sqleton,javascript
+https://github.com/cldellow/sqlite-parquet-vtable,utilities
