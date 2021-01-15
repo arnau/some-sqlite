@@ -3,24 +3,25 @@
 A collection of some SQLite resources.
 
 
-## Extensions
-
-Extensions to enhance SQLite.
-
-| name | summary | tags |
-| - | - | - |
-| [sqlite-parquet-vtable](https://github.com/cldellow/sqlite-parquet-vtable) | A SQLite virtual table extension to expose Parquet files as SQL tables. | utilities |
-
 ## Utilities
 
 Useful tools to work with SQLite.
 
 | name | summary | tags |
 | - | - | - |
-| [sqlite-utils](https://github.com/simonw/sqlite-utils) | Python CLI utility and library for manipulating SQLite databases. | python |
 | [datasette](https://github.com/simonw/datasette) | An open source multi-tool for exploring and publishing data. | python |
 | [rqlite](https://github.com/rqlite/rqlite) | A distributed relational database. | go |
 | [sqleton](https://github.com/inukshuk/sqleton) | A tool to visualise SQLite database schemas. | javascript |
+| [sqlite-utils](https://github.com/simonw/sqlite-utils) | Python CLI utility and library for manipulating SQLite databases. | python |
+
+## Extensions
+
+Extensions to enhance SQLite.
+
+| name | summary | tags |
+| - | - | - |
+| [SQLCipher](https://www.zetetic.net/sqlcipher/) | A SQLite extension adding on-the-fly encryption, tamper detection, strong key derivation and memory sanitisation. | security |
+| [sqlite-parquet-vtable](https://github.com/cldellow/sqlite-parquet-vtable) | A SQLite virtual table extension to expose Parquet files as SQL tables. | utilities |
 
 ## Applications
 

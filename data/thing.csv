@@ -5,3 +5,4 @@ https://github.com/dpapathanasiou/simple-graph,simple-graph,A graph database in 
 https://github.com/rqlite/rqlite,rqlite,"A distributed relational database.",utilities
 https://github.com/inukshuk/sqleton,sqleton,A tool to visualise SQLite database schemas.,utilities
 https://github.com/cldellow/sqlite-parquet-vtable,sqlite-parquet-vtable,A SQLite virtual table extension to expose Parquet files as SQL tables.,extensions
+https://www.zetetic.net/sqlcipher/,SQLCipher,"A SQLite extension adding on-the-fly encryption, tamper detection, strong key derivation and memory sanitisation.",extensions
