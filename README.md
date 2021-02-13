@@ -26,6 +26,7 @@ Useful tools to work with SQLite.
 
 | name | summary | tags |
 | - | - | - |
+| [Litestream](https://github.com/benbjohnson/litestream) | Litestream is a standalone streaming replication tool for SQLite. | go |
 | [datasette](https://github.com/simonw/datasette) | An open source multi-tool for exploring and publishing data. | python |
 | [rqlite](https://github.com/rqlite/rqlite) | A distributed relational database. | go |
 | [sqleton](https://github.com/inukshuk/sqleton) | A tool to visualise SQLite database schemas. | javascript |
