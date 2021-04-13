@@ -7,3 +7,7 @@ https://github.com/inukshuk/sqleton,javascript
 https://github.com/cldellow/sqlite-parquet-vtable,utilities
 https://www.zetetic.net/sqlcipher/,security
 https://github.com/benbjohnson/litestream,go
+https://www.gaia-gis.it/fossil/libspatialite/,utilities
+https://www.gaia-gis.it/fossil/libspatialite/,geospatial
+https://github.com/nalgeon/sqlean,utilities
+https://github.com/nalgeon/sqlean,c

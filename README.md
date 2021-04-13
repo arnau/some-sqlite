@@ -18,6 +18,8 @@ Extensions to enhance SQLite.
 | name | summary | tags |
 | - | - | - |
 | [SQLCipher](https://www.zetetic.net/sqlcipher/) | A SQLite extension adding on-the-fly encryption, tamper detection, strong key derivation and memory sanitisation. | security |
+| [SQLean](https://github.com/nalgeon/sqlean) | Extends SQLite with json1, math, re, stats, text, unicode and vsv at once. | c; utilities |
+| [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/) | A library intended to extend the SQLite core to support fully fledged Spatial SQL capabilities. | geospatial; utilities |
 | [sqlite-parquet-vtable](https://github.com/cldellow/sqlite-parquet-vtable) | A SQLite virtual table extension to expose Parquet files as SQL tables. | utilities |
 
 ## Utilities

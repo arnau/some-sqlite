@@ -7,3 +7,5 @@ https://github.com/inukshuk/sqleton,sqleton,A tool to visualise SQLite database 
 https://github.com/cldellow/sqlite-parquet-vtable,sqlite-parquet-vtable,A SQLite virtual table extension to expose Parquet files as SQL tables.,extensions
 https://www.zetetic.net/sqlcipher/,SQLCipher,"A SQLite extension adding on-the-fly encryption, tamper detection, strong key derivation and memory sanitisation.",extensions
 https://github.com/benbjohnson/litestream,Litestream,Litestream is a standalone streaming replication tool for SQLite.,utilities
+https://www.gaia-gis.it/fossil/libspatialite/,SpatiaLite,A library intended to extend the SQLite core to support fully fledged Spatial SQL capabilities.,extensions
+https://github.com/nalgeon/sqlean,SQLean,"Extends SQLite with json1, math, re, stats, text, unicode and vsv at once.",extensions
