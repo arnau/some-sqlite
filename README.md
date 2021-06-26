@@ -33,6 +33,7 @@ Useful tools to work with SQLite.
 | [rqlite](https://github.com/rqlite/rqlite) | A distributed relational database. | go |
 | [sqleton](https://github.com/inukshuk/sqleton) | A tool to visualise SQLite database schemas. | javascript |
 | [sqlite-utils](https://github.com/simonw/sqlite-utils) | Python CLI utility and library for manipulating SQLite databases. | python |
+| [sqlitebiter](https://github.com/thombashi/sqlitebiter) | A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file. | python |
 
 ## Licence
 
