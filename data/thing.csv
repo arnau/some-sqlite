@@ -10,3 +10,4 @@ https://github.com/benbjohnson/litestream,Litestream,Litestream is a standalone 
 https://www.gaia-gis.it/fossil/libspatialite/,SpatiaLite,A library intended to extend the SQLite core to support fully fledged Spatial SQL capabilities.,extensions
 https://github.com/nalgeon/sqlean,SQLean,"Extends SQLite with json1, math, re, stats, text, unicode and vsv at once.",extensions
 https://github.com/thombashi/sqlitebiter,sqlitebiter,A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file.,utilities
+https://github.com/aergoio/litetree,LiteTree,A modified version of the SQLite engine to support branches a-la Git.,application
