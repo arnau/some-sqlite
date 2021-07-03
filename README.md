@@ -10,6 +10,7 @@ Solutions using SQLite as a building block.
 | name | summary | tags |
 | - | - | - |
 | [LiteTree](https://github.com/aergoio/litetree) | A modified version of the SQLite engine to support branches a-la Git. | c |
+| [bibliothecula](https://github.com/epilys/bibliothecula) | Document organizer with tags and full-text-search, in a simple and clean sqlite3 schema | python; rust |
 | [simple-graph](https://github.com/dpapathanasiou/simple-graph) | A graph database in SQLite inspired by 'SQLite as a document database'. | python |
 
 ## Extensions
