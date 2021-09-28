@@ -12,3 +12,4 @@ https://github.com/nalgeon/sqlean,SQLean,"Extends SQLite with json1, math, re, s
 https://github.com/thombashi/sqlitebiter,sqlitebiter,A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file.,utilities
 https://github.com/aergoio/litetree,LiteTree,A modified version of the SQLite engine to support branches a-la Git.,application
 https://github.com/epilys/bibliothecula,bibliothecula,"Document organizer with tags and full-text-search, in a simple and clean sqlite3 schema",application
+https://github.com/dyedgreen/deno-sqlite,deno-sqlite,A Deno module with SQLite embedded as WebAssembly,javascript

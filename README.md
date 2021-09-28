@@ -24,6 +24,14 @@ Extensions to enhance SQLite.
 | [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/) | A library intended to extend the SQLite core to support fully fledged Spatial SQL capabilities. | geospatial; utilities |
 | [sqlite-parquet-vtable](https://github.com/cldellow/sqlite-parquet-vtable) | A SQLite virtual table extension to expose Parquet files as SQL tables. | utilities |
 
+## JavaScript
+
+JavaScript programming language
+
+| name | summary | tags |
+| - | - | - |
+| [deno-sqlite](https://github.com/dyedgreen/deno-sqlite) | A Deno module with SQLite embedded as WebAssembly | deno; webassembly |
+
 ## Utilities
 
 Useful tools to work with SQLite.
