@@ -14,3 +14,4 @@ https://github.com/aergoio/litetree,LiteTree,A modified version of the SQLite en
 https://github.com/epilys/bibliothecula,bibliothecula,"Document organizer with tags and full-text-search, in a simple and clean sqlite3 schema",application
 https://github.com/dyedgreen/deno-sqlite,deno-sqlite,A Deno module with SQLite embedded as WebAssembly,javascript
 https://sqlime.org/,sqlime,"An online SQLite playground for debugging and sharing SQL snippets. Kinda like JSFiddle or CodePen, but for SQL instead of JavaScript.",utilities
+https://github.com/backtrace-labs/verneuil,Verneuil,"Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.",extensions
