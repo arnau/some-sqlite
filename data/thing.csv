@@ -16,3 +16,4 @@ https://github.com/dyedgreen/deno-sqlite,deno-sqlite,A Deno module with SQLite e
 https://sqlime.org/,sqlime,"An online SQLite playground for debugging and sharing SQL snippets. Kinda like JSFiddle or CodePen, but for SQL instead of JavaScript.",utilities
 https://github.com/backtrace-labs/verneuil,Verneuil,"Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.",extensions
 https://github.com/simonw/git-history,git-history,"Tools for analyzing Git history using SQLite",application
+https://github.com/x2bool/xlite,XLite,A SQLite extension to query Excel files as virtual tables.,extensions
