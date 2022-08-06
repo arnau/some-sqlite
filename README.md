@@ -25,6 +25,7 @@ Extensions to enhance SQLite.
 | [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/) | A library intended to extend the SQLite core to support fully fledged Spatial SQL capabilities. | geospatial; utilities |
 | [Verneuil](https://github.com/backtrace-labs/verneuil) | Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores. | c; rust |
 | [XLite](https://github.com/x2bool/xlite) | A SQLite extension to query Excel files as virtual tables. | rust; utilities |
+| [sqlite-html](https://github.com/asg017/sqlite-html) | A SQLite extension for querying, manipulating, and creating HTML elements. | utilities |
 | [sqlite-lines](https://github.com/asg017/sqlite-lines) | A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.) | c; utilities |
 | [sqlite-parquet-vtable](https://github.com/cldellow/sqlite-parquet-vtable) | A SQLite virtual table extension to expose Parquet files as SQL tables. | utilities |
 | [sqlite-zstd](https://github.com/phiresky/sqlite-zstd) | Transparent dictionary-based row-level compression for SQLite. | rust; utilities |

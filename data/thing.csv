@@ -19,3 +19,4 @@ https://github.com/simonw/git-history,git-history,"Tools for analyzing Git histo
 https://github.com/x2bool/xlite,XLite,A SQLite extension to query Excel files as virtual tables.,extensions
 https://github.com/phiresky/sqlite-zstd,sqlite-zstd,Transparent dictionary-based row-level compression for SQLite.,extensions
 https://github.com/asg017/sqlite-lines,sqlite-lines,"A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)",extensions
+https://github.com/asg017/sqlite-html,sqlite-html,"A SQLite extension for querying, manipulating, and creating HTML elements.",extensions
