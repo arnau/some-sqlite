@@ -17,3 +17,4 @@ https://sqlime.org/,sqlime,"An online SQLite playground for debugging and sharin
 https://github.com/backtrace-labs/verneuil,Verneuil,"Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.",extensions
 https://github.com/simonw/git-history,git-history,"Tools for analyzing Git history using SQLite",application
 https://github.com/x2bool/xlite,XLite,A SQLite extension to query Excel files as virtual tables.,extensions
+https://github.com/phiresky/sqlite-zstd,sqlite-zstd,Transparent dictionary-based row-level compression for SQLite.,extensions

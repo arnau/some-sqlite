@@ -26,6 +26,7 @@ Extensions to enhance SQLite.
 | [Verneuil](https://github.com/backtrace-labs/verneuil) | Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores. | c; rust |
 | [XLite](https://github.com/x2bool/xlite) | A SQLite extension to query Excel files as virtual tables. | rust; utilities |
 | [sqlite-parquet-vtable](https://github.com/cldellow/sqlite-parquet-vtable) | A SQLite virtual table extension to expose Parquet files as SQL tables. | utilities |
+| [sqlite-zstd](https://github.com/phiresky/sqlite-zstd) | Transparent dictionary-based row-level compression for SQLite. | rust; utilities |
 
 ## JavaScript
 
