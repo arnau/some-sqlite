@@ -22,3 +22,4 @@ https://github.com/asg017/sqlite-lines,sqlite-lines,"A SQLite extension for read
 https://github.com/asg017/sqlite-html,sqlite-html,"A SQLite extension for querying, manipulating, and creating HTML elements.",extensions
 https://github.com/maxpert/marmot,marmot,"A distributed SQLite replicator.",application
 https://libsql.org/,libSQL,"LibSQL is a fork of SQLite that is both Open Source, and Open Contributions.",application
+https://github.com/chiselstrike/chiselstore,ChiselStore,"ChiselStore is an embeddable, distributed SQLite for Rust, powered by Little Raft.",application

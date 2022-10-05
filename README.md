@@ -15,6 +15,7 @@ Solutions using SQLite as a building block.
 | [git-history](https://github.com/simonw/git-history) | Tools for analyzing Git history using SQLite | git; python |
 | [marmot](https://github.com/maxpert/marmot) | A distributed SQLite replicator. | go; utilities |
 | [libSQL](https://libsql.org/) | LibSQL is a fork of SQLite that is both Open Source, and Open Contributions. | c; rust; utilities |
+| [ChiselStore](https://github.com/chiselstrike/chiselstore) | ChiselStore is an embeddable, distributed SQLite for Rust, powered by Little Raft. | rust |
 
 ## Extensions
 
