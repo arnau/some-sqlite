@@ -38,3 +38,5 @@ https://libsql.org/,c
 https://github.com/chiselstrike/chiselstore,rust
 https://dqlite.io/,application
 https://dqlite.io/,c
+https://github.com/simonw/sqlite-diffable,utilities
+https://github.com/simonw/sqlite-diffable,python
