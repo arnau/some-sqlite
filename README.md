@@ -18,6 +18,7 @@ Solutions using SQLite as a building block.
 | [ChiselStore](https://github.com/chiselstrike/chiselstore) | ChiselStore is an embeddable, distributed SQLite for Rust, powered by Little Raft. | rust |
 | [Dqlite](https://dqlite.io/) | Dqlite is a fast, embedded, persistent SQL database with Raft consensus that is perfect for fault-tolerant IoT and Edge devices. | application; c |
 | [sqlite-difftable](https://github.com/simonw/sqlite-diffable) | Tools for dumping/loading a SQLite database to diffable directory structure - GitHub - simonw/sqlite-diffable: Tools for dumping/loading a SQLite database to diffable directory structure. | python; utilities |
+| [Ploomber](https://github.com/ploomber/ploomber) | The fastest way to build data pipelines. Develop iteratively, deploy anywhere. | data_analysis; python; utilities |
 
 ## Extensions
 

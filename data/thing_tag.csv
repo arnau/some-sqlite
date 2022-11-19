@@ -40,3 +40,6 @@ https://dqlite.io/,application
 https://dqlite.io/,c
 https://github.com/simonw/sqlite-diffable,utilities
 https://github.com/simonw/sqlite-diffable,python
+https://github.com/ploomber/ploomber,utilities
+https://github.com/ploomber/ploomber,python
+https://github.com/ploomber/ploomber,data_analysis
