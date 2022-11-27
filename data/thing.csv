@@ -27,3 +27,4 @@ https://dqlite.io/,Dqlite,"Dqlite is a fast, embedded, persistent SQL database w
 https://github.com/simonw/sqlite-diffable,sqlite-difftable,Tools for dumping/loading a SQLite database to diffable directory structure - GitHub - simonw/sqlite-diffable: Tools for dumping/loading a SQLite database to diffable directory structure.,application
 https://github.com/ploomber/ploomber,Ploomber,"The fastest way to build data pipelines. Develop iteratively, deploy anywhere.",application
 https://github.com/0x6b/libgsqlite,libgsqlite,A SQLite extension which loads a Google Sheet as a virtual table.,extensions
+https://github.com/vlcn-io/cr-sqlite,cr-sqlite,"Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite.",extensions

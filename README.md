@@ -36,6 +36,7 @@ Extensions to enhance SQLite.
 | [sqlite-lines](https://github.com/asg017/sqlite-lines) | A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.) | c; utilities |
 | [sqlite-html](https://github.com/asg017/sqlite-html) | A SQLite extension for querying, manipulating, and creating HTML elements. | go; utilities |
 | [libgsqlite](https://github.com/0x6b/libgsqlite) | A SQLite extension which loads a Google Sheet as a virtual table. | rust; utilities |
+| [cr-sqlite](https://github.com/vlcn-io/cr-sqlite) | Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite. | c |
 
 ## JavaScript
 
