@@ -46,6 +46,14 @@ JavaScript programming language
 | - | - | - |
 | [deno-sqlite](https://github.com/dyedgreen/deno-sqlite) | A Deno module with SQLite embedded as WebAssembly | deno; webassembly |
 
+## Tutorial
+
+Resources for learning SQLite, SQL and related topics.
+
+| name | summary | tags |
+| - | - | - |
+| [SQL Teaching](https://www.sqlteaching.com/) | An interactive tutorial to learn the rudiments of SQL using SQLite in the browser. | javascript |
+
 ## Utilities
 
 Useful tools to work with SQLite.
