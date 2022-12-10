@@ -67,6 +67,7 @@ Useful tools to work with SQLite.
 | [Litestream](https://github.com/benbjohnson/litestream) | Litestream is a standalone streaming replication tool for SQLite. | go |
 | [sqlitebiter](https://github.com/thombashi/sqlitebiter) | A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file. | python |
 | [sqlime](https://sqlime.org/) | An online SQLite playground for debugging and sharing SQL snippets. Kinda like JSFiddle or CodePen, but for SQL instead of JavaScript. | webassembly |
+| [sqlite-loadable-rs](https://github.com/asg017/sqlite-loadable-rs) | A framework for writing fast and performant SQLite extensions in Rust | rust |
 
 ## Licence
 
