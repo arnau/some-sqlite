@@ -30,3 +30,4 @@ https://github.com/0x6b/libgsqlite,libgsqlite,A SQLite extension which loads a G
 https://github.com/vlcn-io/cr-sqlite,cr-sqlite,"Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite.",extensions
 https://www.sqlteaching.com/,SQL Teaching,An interactive tutorial to learn the rudiments of SQL using SQLite in the browser.,tutorial
 https://github.com/asg017/sqlite-loadable-rs,sqlite-loadable-rs,A framework for writing fast and performant SQLite extensions in Rust,utilities
+https://github.com/losfair/mvsqlite,mvSQLite,MVCC SQLite that runs on FoundationDB.,utilities

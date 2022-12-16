@@ -68,6 +68,7 @@ Useful tools to work with SQLite.
 | [sqlitebiter](https://github.com/thombashi/sqlitebiter) | A CLI tool to convert CSV / Excel / HTML / JSON / Jupyter Notebook / LDJSON / LTSV / Markdown / SQLite / SSV / TSV / Google-Sheets to a SQLite database file. | python |
 | [sqlime](https://sqlime.org/) | An online SQLite playground for debugging and sharing SQL snippets. Kinda like JSFiddle or CodePen, but for SQL instead of JavaScript. | webassembly |
 | [sqlite-loadable-rs](https://github.com/asg017/sqlite-loadable-rs) | A framework for writing fast and performant SQLite extensions in Rust | rust |
+| [mvSQLite](https://github.com/losfair/mvsqlite) | MVCC SQLite that runs on FoundationDB. | rust |
 
 ## Licence
 
