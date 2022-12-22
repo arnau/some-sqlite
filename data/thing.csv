@@ -31,3 +31,4 @@ https://github.com/vlcn-io/cr-sqlite,cr-sqlite,"Convergent, Replicated SQLite. M
 https://www.sqlteaching.com/,SQL Teaching,An interactive tutorial to learn the rudiments of SQL using SQLite in the browser.,tutorial
 https://github.com/asg017/sqlite-loadable-rs,sqlite-loadable-rs,A framework for writing fast and performant SQLite extensions in Rust,utilities
 https://github.com/losfair/mvsqlite,mvSQLite,MVCC SQLite that runs on FoundationDB.,utilities
+https://github.com/superfly/litefs,litefs,FUSE-based file system for replicating SQLite databases across a cluster of machines,application
