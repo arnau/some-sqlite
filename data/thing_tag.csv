@@ -51,3 +51,6 @@ https://github.com/asg017/sqlite-loadable-rs,rust
 https://github.com/losfair/mvsqlite,rust
 https://github.com/superfly/litefs,utilities
 https://github.com/superfly/litefs,go
+https://github.com/jakethaw/pivot_vtab,utilities
+https://github.com/jakethaw/pivot_vtab,c
+https://github.com/jakethaw/pivot_vtab,data_analysis
