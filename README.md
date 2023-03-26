@@ -39,6 +39,7 @@ Extensions to enhance SQLite.
 | [libgsqlite](https://github.com/0x6b/libgsqlite) | A SQLite extension which loads a Google Sheet as a virtual table. | rust; utilities |
 | [cr-sqlite](https://github.com/vlcn-io/cr-sqlite) | Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite. | c |
 | [pivot_vtab](https://github.com/jakethaw/pivot_vtab) | An extension implementing pivot tables as virtual tables. | c; data_analysis; utilities |
+| [sqlite-xsv](https://github.com/asg017/sqlite-xsv) | A SQLite extension to query CSV as virtual tables. | rust |
 
 ## JavaScript
 
