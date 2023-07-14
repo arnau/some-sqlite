@@ -40,6 +40,7 @@ Extensions to enhance SQLite.
 | [cr-sqlite](https://github.com/vlcn-io/cr-sqlite) | Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite. | c |
 | [pivot_vtab](https://github.com/jakethaw/pivot_vtab) | An extension implementing pivot tables as virtual tables. | c; data_analysis; utilities |
 | [sqlite-xsv](https://github.com/asg017/sqlite-xsv) | A SQLite extension to query CSV as virtual tables. | rust |
+| [Mycelite](https://github.com/mycelial/mycelite) | A SQLite extension that allows you to synchronize changes from one instance of SQLite to another. | rust; utilities |
 
 ## JavaScript
 
@@ -76,5 +77,4 @@ Useful tools to work with SQLite.
 ## Licence
 
 This dataset is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
-
 
