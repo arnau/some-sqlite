@@ -35,3 +35,4 @@ https://github.com/superfly/litefs,litefs,FUSE-based file system for replicating
 https://github.com/jakethaw/pivot_vtab,pivot_vtab,An extension implementing pivot tables as virtual tables.,extensions
 https://github.com/asg017/sqlite-xsv,sqlite-xsv,A SQLite extension to query CSV as virtual tables.,extensions
 https://github.com/mycelial/mycelite,Mycelite,A SQLite extension that allows you to synchronize changes from one instance of SQLite to another.,extensions
+https://sql.ophir.dev/,SQLPage,A web server driven by SQL queries.,application

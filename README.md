@@ -20,6 +20,7 @@ Solutions using SQLite as a building block.
 | [sqlite-difftable](https://github.com/simonw/sqlite-diffable) | Tools for dumping/loading a SQLite database to diffable directory structure - GitHub - simonw/sqlite-diffable: Tools for dumping/loading a SQLite database to diffable directory structure. | python; utilities |
 | [Ploomber](https://github.com/ploomber/ploomber) | The fastest way to build data pipelines. Develop iteratively, deploy anywhere. | data_analysis; python; utilities |
 | [litefs](https://github.com/superfly/litefs) | FUSE-based file system for replicating SQLite databases across a cluster of machines | go; utilities |
+| [SQLPage](https://sql.ophir.dev/) | A web server driven by SQL queries. | rust |
 
 ## Extensions
 
