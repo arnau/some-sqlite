@@ -21,6 +21,7 @@ Solutions using SQLite as a building block.
 | [Ploomber](https://github.com/ploomber/ploomber) | The fastest way to build data pipelines. Develop iteratively, deploy anywhere. | data_analysis; python; utilities |
 | [litefs](https://github.com/superfly/litefs) | FUSE-based file system for replicating SQLite databases across a cluster of machines | go; utilities |
 | [SQLPage](https://sql.ophir.dev/) | A web server driven by SQL queries. | rust |
+| [SQLedge](https://github.com/zknill/sqledge) | A tool to stream changes from Postges to SQLite so the database can run on the edge. | go |
 
 ## Extensions
 
