@@ -37,3 +37,4 @@ https://github.com/asg017/sqlite-xsv,sqlite-xsv,A SQLite extension to query CSV 
 https://github.com/mycelial/mycelite,Mycelite,A SQLite extension that allows you to synchronize changes from one instance of SQLite to another.,extensions
 https://sql.ophir.dev/,SQLPage,A web server driven by SQL queries.,application
 https://github.com/zknill/sqledge,SQLedge,A tool to stream changes from Postges to SQLite so the database can run on the edge.,application
+https://github.com/orbitinghail/sqlsync,SQLSync,"A collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.",application
