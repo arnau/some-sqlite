@@ -44,6 +44,7 @@ Extensions to enhance SQLite.
 | [pivot_vtab](https://github.com/jakethaw/pivot_vtab) | An extension implementing pivot tables as virtual tables. | c; data_analysis; utilities |
 | [sqlite-xsv](https://github.com/asg017/sqlite-xsv) | A SQLite extension to query CSV as virtual tables. | rust |
 | [Mycelite](https://github.com/mycelial/mycelite) | A SQLite extension that allows you to synchronize changes from one instance of SQLite to another. | rust; utilities |
+| [Stanchion](https://github.com/dgllghr/stanchion) | A SQLite extension that brings column-oriented tables to SQLite | c; data_analysis; zig |
 
 ## JavaScript
 
@@ -80,4 +81,5 @@ Useful tools to work with SQLite.
 ## Licence
 
 This dataset is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+
 
