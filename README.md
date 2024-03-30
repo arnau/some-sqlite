@@ -77,9 +77,9 @@ Useful tools to work with SQLite.
 | [sqlime](https://sqlime.org/) | An online SQLite playground for debugging and sharing SQL snippets. Kinda like JSFiddle or CodePen, but for SQL instead of JavaScript. | webassembly |
 | [sqlite-loadable-rs](https://github.com/asg017/sqlite-loadable-rs) | A framework for writing fast and performant SQLite extensions in Rust | rust |
 | [mvSQLite](https://github.com/losfair/mvsqlite) | MVCC SQLite that runs on FoundationDB. | rust |
+| [sqlite-schema-diagram](https://gitlab.com/Screwtapello/sqlite-schema-diagram/) | A SQLite schema diagram generator. | sql |
 
 ## Licence
 
 This dataset is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
-
 
