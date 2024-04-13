@@ -1,8 +1,8 @@
 url,name,summary,category_id
-https://github.com/simonw/sqlite-utils,sqlite-utils,"Python CLI utility and library for manipulating SQLite databases.",utilities
-https://github.com/simonw/datasette,datasette,"An open source multi-tool for exploring and publishing data.",utilities
+https://github.com/simonw/sqlite-utils,sqlite-utils,Python CLI utility and library for manipulating SQLite databases.,utilities
+https://github.com/simonw/datasette,datasette,An open source multi-tool for exploring and publishing data.,utilities
 https://github.com/dpapathanasiou/simple-graph,simple-graph,A graph database in SQLite inspired by 'SQLite as a document database'.,application
-https://github.com/rqlite/rqlite,rqlite,"A distributed relational database.",utilities
+https://github.com/rqlite/rqlite,rqlite,A distributed relational database.,utilities
 https://github.com/inukshuk/sqleton,sqleton,A tool to visualise SQLite database schemas.,utilities
 https://github.com/cldellow/sqlite-parquet-vtable,sqlite-parquet-vtable,A SQLite virtual table extension to expose Parquet files as SQL tables.,extensions
 https://www.zetetic.net/sqlcipher/,SQLCipher,"A SQLite extension adding on-the-fly encryption, tamper detection, strong key derivation and memory sanitisation.",extensions
@@ -14,13 +14,13 @@ https://github.com/aergoio/litetree,LiteTree,A modified version of the SQLite en
 https://github.com/epilys/bibliothecula,bibliothecula,"Document organizer with tags and full-text-search, in a simple and clean sqlite3 schema",application
 https://github.com/dyedgreen/deno-sqlite,deno-sqlite,A Deno module with SQLite embedded as WebAssembly,javascript
 https://sqlime.org/,sqlime,"An online SQLite playground for debugging and sharing SQL snippets. Kinda like JSFiddle or CodePen, but for SQL instead of JavaScript.",utilities
-https://github.com/backtrace-labs/verneuil,Verneuil,"Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.",extensions
-https://github.com/simonw/git-history,git-history,"Tools for analyzing Git history using SQLite",application
+https://github.com/backtrace-labs/verneuil,Verneuil,Verneuil is a VFS extension for SQLite that asynchronously replicates databases to S3-compatible blob stores.,extensions
+https://github.com/simonw/git-history,git-history,Tools for analyzing Git history using SQLite,application
 https://github.com/x2bool/xlite,XLite,A SQLite extension to query Excel files as virtual tables.,extensions
 https://github.com/phiresky/sqlite-zstd,sqlite-zstd,Transparent dictionary-based row-level compression for SQLite.,extensions
 https://github.com/asg017/sqlite-lines,sqlite-lines,"A SQLite extension for reading large files line-by-line (NDJSON, logs, txt, etc.)",extensions
 https://github.com/asg017/sqlite-html,sqlite-html,"A SQLite extension for querying, manipulating, and creating HTML elements.",extensions
-https://github.com/maxpert/marmot,marmot,"A distributed SQLite replicator.",application
+https://github.com/maxpert/marmot,marmot,A distributed SQLite replicator.,application
 https://libsql.org/,libSQL,"LibSQL is a fork of SQLite that is both Open Source, and Open Contributions.",application
 https://github.com/chiselstrike/chiselstore,ChiselStore,"ChiselStore is an embeddable, distributed SQLite for Rust, powered by Little Raft.",application
 https://dqlite.io/,Dqlite,"Dqlite is a fast, embedded, persistent SQL database with Raft consensus that is perfect for fault-tolerant IoT and Edge devices.",application
@@ -40,3 +40,4 @@ https://github.com/zknill/sqledge,SQLedge,A tool to stream changes from Postges 
 https://github.com/orbitinghail/sqlsync,SQLSync,"A collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.",application
 https://github.com/dgllghr/stanchion,Stanchion,A SQLite extension that brings column-oriented tables to SQLite,extensions
 https://gitlab.com/Screwtapello/sqlite-schema-diagram/,sqlite-schema-diagram,A SQLite schema diagram generator.,utilities
+https://kerkour.com/sqlite-for-servers,Optimising SQLite for servers,A tutorial on how to optimise SQLite for backend applications.,tutorial

@@ -61,6 +61,7 @@ Resources for learning SQLite, SQL and related topics.
 | name | summary | tags |
 | - | - | - |
 | [SQL Teaching](https://www.sqlteaching.com/) | An interactive tutorial to learn the rudiments of SQL using SQLite in the browser. | javascript |
+| [Optimising SQLite for servers](https://kerkour.com/sqlite-for-servers) | A tutorial on how to optimise SQLite for backend applications. |  |
 
 ## Utilities
 
