@@ -42,3 +42,4 @@ https://github.com/dgllghr/stanchion,Stanchion,A SQLite extension that brings co
 https://gitlab.com/Screwtapello/sqlite-schema-diagram/,sqlite-schema-diagram,A SQLite schema diagram generator.,utilities
 https://kerkour.com/sqlite-for-servers,Optimising SQLite for servers,A tutorial on how to optimise SQLite for backend applications.,tutorial
 https://github.com/nalgeon/redka,Redka,Redis re-implemented with SQLite. Contribute to nalgeon/redka development by creating an account on GitHub.,application
+https://github.com/penberg/limbo,Limbo,"An in-process OLTP database management system, compatible with SQLite.",application

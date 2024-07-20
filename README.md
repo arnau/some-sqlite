@@ -23,6 +23,8 @@ Solutions using SQLite as a building block.
 | [SQLPage](https://sql.ophir.dev/) | A web server driven by SQL queries. | rust |
 | [SQLedge](https://github.com/zknill/sqledge) | A tool to stream changes from Postges to SQLite so the database can run on the edge. | go |
 | [SQLSync](https://github.com/orbitinghail/sqlsync) | A collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. | rust |
+| [Redka](https://github.com/nalgeon/redka) | Redis re-implemented with SQLite. Contribute to nalgeon/redka development by creating an account on GitHub. | go |
+| [Limbo](https://github.com/penberg/limbo) | An in-process OLTP database management system, compatible with SQLite. | data_analysis; rust |
 
 ## Extensions
 
