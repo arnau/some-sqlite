@@ -25,6 +25,7 @@ Solutions using SQLite as a building block.
 | [SQLSync](https://github.com/orbitinghail/sqlsync) | A collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. | rust |
 | [Redka](https://github.com/nalgeon/redka) | Redis re-implemented with SQLite. Contribute to nalgeon/redka development by creating an account on GitHub. | go |
 | [Limbo](https://github.com/penberg/limbo) | An in-process OLTP database management system, compatible with SQLite. | data_analysis; rust |
+| [starbasedb](https://github.com/brayden/starbasedb) | HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. | typescript |
 
 ## Extensions
 
