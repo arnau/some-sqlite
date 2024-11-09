@@ -26,6 +26,7 @@ Solutions using SQLite as a building block.
 | [Redka](https://github.com/nalgeon/redka) | Redis re-implemented with SQLite. Contribute to nalgeon/redka development by creating an account on GitHub. | go |
 | [Limbo](https://github.com/penberg/limbo) | An in-process OLTP database management system, compatible with SQLite. | data_analysis; rust |
 | [starbasedb](https://github.com/brayden/starbasedb) | HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. | typescript |
+| [litecli](https://github.com/dbcli/litecli) | A command-line client for SQLite databases that has auto-completion and syntax highlighting. | python; utilities |
 
 ## Extensions
 

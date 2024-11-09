@@ -45,3 +45,4 @@ https://github.com/nalgeon/redka,Redka,Redis re-implemented with SQLite. Contrib
 https://github.com/penberg/limbo,Limbo,"An in-process OLTP database management system, compatible with SQLite.",application
 https://github.com/asg017/sqlite-lembed,sqlite-lembed,A SQLite extension for generating text embeddings from GGUF models using llama.cpp.,extensions
 https://github.com/brayden/starbasedb,starbasedb,HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.,application
+https://github.com/dbcli/litecli,litecli,A command-line client for SQLite databases that has auto-completion and syntax highlighting.,application
