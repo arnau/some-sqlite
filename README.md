@@ -27,6 +27,7 @@ Solutions using SQLite as a building block.
 | [Limbo](https://github.com/penberg/limbo) | An in-process OLTP database management system, compatible with SQLite. | data_analysis; rust |
 | [starbasedb](https://github.com/brayden/starbasedb) | HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. | typescript |
 | [litecli](https://github.com/dbcli/litecli) | A command-line client for SQLite databases that has auto-completion and syntax highlighting. | python; utilities |
+| [sqlite.directory](https://sqlite.directory/) | sqlite.directory is a directory of web applications that use the SQLite database engine in some meaningful capacity in production. | utilities |
 
 ## Extensions
 
@@ -88,4 +89,5 @@ Useful tools to work with SQLite.
 ## Licence
 
 This dataset is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+
 

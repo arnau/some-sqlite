@@ -46,3 +46,4 @@ https://github.com/penberg/limbo,Limbo,"An in-process OLTP database management s
 https://github.com/asg017/sqlite-lembed,sqlite-lembed,A SQLite extension for generating text embeddings from GGUF models using llama.cpp.,extensions
 https://github.com/brayden/starbasedb,starbasedb,HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.,application
 https://github.com/dbcli/litecli,litecli,A command-line client for SQLite databases that has auto-completion and syntax highlighting.,application
+https://sqlite.directory/,sqlite.directory,sqlite.directory is a directory of web applications that use the SQLite database engine in some meaningful capacity in production.,application
