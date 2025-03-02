@@ -85,9 +85,9 @@ Useful tools to work with SQLite.
 | [sqlite-loadable-rs](https://github.com/asg017/sqlite-loadable-rs) | A framework for writing fast and performant SQLite extensions in Rust | rust |
 | [mvSQLite](https://github.com/losfair/mvsqlite) | MVCC SQLite that runs on FoundationDB. | rust |
 | [sqlite-schema-diagram](https://gitlab.com/Screwtapello/sqlite-schema-diagram/) | A SQLite schema diagram generator. | sql |
+| [Hiqlite](https://github.com/sebadob/hiqlite/) | Hiqlite - highly-available, embeddable, raft-based SQLite + cache - sebadob/hiqlite | rust |
 
 ## Licence
 
 This dataset is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
-
 

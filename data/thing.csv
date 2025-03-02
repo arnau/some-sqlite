@@ -47,3 +47,4 @@ https://github.com/asg017/sqlite-lembed,sqlite-lembed,A SQLite extension for gen
 https://github.com/brayden/starbasedb,starbasedb,HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects.,application
 https://github.com/dbcli/litecli,litecli,A command-line client for SQLite databases that has auto-completion and syntax highlighting.,application
 https://sqlite.directory/,sqlite.directory,sqlite.directory is a directory of web applications that use the SQLite database engine in some meaningful capacity in production.,application
+https://github.com/sebadob/hiqlite/,Hiqlite,"Hiqlite - highly-available, embeddable, raft-based SQLite + cache - sebadob/hiqlite",utilities
