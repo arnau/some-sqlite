@@ -28,6 +28,7 @@ Solutions using SQLite as a building block.
 | [starbasedb](https://github.com/brayden/starbasedb) | HTTP SQLite scale-to-zero database on the edge built on Cloudflare Durable Objects. | typescript |
 | [litecli](https://github.com/dbcli/litecli) | A command-line client for SQLite databases that has auto-completion and syntax highlighting. | python; utilities |
 | [sqlite.directory](https://sqlite.directory/) | sqlite.directory is a directory of web applications that use the SQLite database engine in some meaningful capacity in production. | utilities |
+| [Minimalytics](https://github.com/nafey/minimalytics) | Minimalytics is a standalone minimalist analytics tool built on SQLite. Designed for resource-constrained environments, it provides a lightweight solution for tracking and visualizing event data with a minimal footprint. Whether you're tracking internal services or need a simple analytics tool, Minimalytics delivers performance without the bloat. | data_analysis; go; utilities |
 
 ## Extensions
 
