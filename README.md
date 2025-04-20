@@ -87,6 +87,7 @@ Useful tools to work with SQLite.
 | [mvSQLite](https://github.com/losfair/mvsqlite) | MVCC SQLite that runs on FoundationDB. | rust |
 | [sqlite-schema-diagram](https://gitlab.com/Screwtapello/sqlite-schema-diagram/) | A SQLite schema diagram generator. | sql |
 | [Hiqlite](https://github.com/sebadob/hiqlite/) | Hiqlite - highly-available, embeddable, raft-based SQLite + cache - sebadob/hiqlite | rust |
+| [sqleibniz](https://github.com/xnacly/sqleibniz) | SQL LSP implementation and analysis tool. Check for valid syntax, semantics and perform dynamic analysis. | application; rust |
 
 ## Licence
 
