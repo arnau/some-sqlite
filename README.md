@@ -88,6 +88,7 @@ Useful tools to work with SQLite.
 | [sqlite-schema-diagram](https://gitlab.com/Screwtapello/sqlite-schema-diagram/) | A SQLite schema diagram generator. | sql |
 | [Hiqlite](https://github.com/sebadob/hiqlite/) | Hiqlite - highly-available, embeddable, raft-based SQLite + cache - sebadob/hiqlite | rust |
 | [sqleibniz](https://github.com/xnacly/sqleibniz) | SQL LSP implementation and analysis tool. Check for valid syntax, semantics and perform dynamic analysis. | application; rust |
+| [LiveStore](https://github.com/livestorejs/livestore) | LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine. | typescript; utilities |
 
 ## Licence
 
