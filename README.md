@@ -52,6 +52,7 @@ Extensions to enhance SQLite.
 | [Mycelite](https://github.com/mycelial/mycelite) | A SQLite extension that allows you to synchronize changes from one instance of SQLite to another. | rust; utilities |
 | [Stanchion](https://github.com/dgllghr/stanchion) | A SQLite extension that brings column-oriented tables to SQLite | c; data_analysis; zig |
 | [sqlite-lembed](https://github.com/asg017/sqlite-lembed) | A SQLite extension for generating text embeddings from GGUF models using llama.cpp. | c |
+| [gPRSQLite](https://github.com/danthegoodman1/gRPSQLite) | A SQLite VFS for remote databases via gRPC. | rust |
 
 ## JavaScript
 
